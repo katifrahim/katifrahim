@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MohammadKatif
-- 👀 I’m currently interested in Machine learning and Robotics
-- 🌱 I’m currently learning and exploring Machine learning
+- 👋 Hi, I’m Mohammad Katif Khan
+- 👀 I’m currently interested in Machine learning, Web dev and Robotics
+- 🌱 I’m currently learning and exploring the field of Machine learning!
 - 💞️ I’m looking to collaborate on Machine learning, Web dev and Robotics
 - 📫 How to reach me: katifrahim@gmail.com
 
