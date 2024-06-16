@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m Mohammad Katif Khan
 - 👀 I’m currently interested in Machine learning, Web dev and Robotics
 - 🌱 I’m currently learning and exploring the field of Machine learning!
