@@ -8,10 +8,10 @@
 </h1>
 
 <div align="center">
-  <a href="https://wa.me/your-phone-number">
+  <a href="https://wa.me/03400297427">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:katifrahim@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20me%20an%20email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
