@@ -23,8 +23,8 @@
 
 ## :woman_technologist: About me:
 - 🔭 I’m currently working on enhancing my skills in machine learning.
-- 🌱 I’m always learning and expanding my knowledge in various programming languages and frameworks.
-- 💡 I'm interested in AI, automation, and building innovative solutions to real-world challenges.
+- 🌱 I’m always trying to learn and expand my knowledge in various programming languages.
+- 💡 I'm interested in AI, Robotics, and building innovative solutions to real-world challenges.
 - 🐈 Fun fact: I love cats :D
 
 <!--
