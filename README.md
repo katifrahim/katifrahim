@@ -26,7 +26,8 @@
 - 🌱 I’m always learning and expanding my knowledge in various programming languages and frameworks.
 - 💡 I'm interested in AI, automation, and building innovative solutions to real-world challenges.
 - 🐈 Fun fact: I love cats :D
-  
+
+<!--
 ## :hammer_and_wrench: Languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -49,6 +50,7 @@
 
 <!--   <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
+--->
 
 <!---
 MohammadKatif/MohammadKatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
