@@ -47,6 +47,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MohammadKatif/MohammadKatif/assets/143898427/b55d2644-12c6-4fac-be20-a7f8b488da12" title="Google Colab" alt="Google Colab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/MohammadKatif/MohammadKatif/assets/143898427/0b824669-ba80-4e52-b095-e2d6e357513c" title="Font Awesome" alt="Font Awesome" width="40" height="40"/>&nbsp;
+-->
 
 <!--   <img src="" title="" alt="" width="40" height="40"/>&nbsp; -->
 </div>
