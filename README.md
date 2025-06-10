@@ -22,9 +22,9 @@
 </div>
 
 ## :woman_technologist: About me:
-- 🔭 I’m currently working on enhancing my skills in machine learning.
-- 🌱 I’m always trying to learn and expand my knowledge in various programming languages.
-- 💡 I'm interested in AI, Robotics, and building innovative solutions to real-world challenges.
+- 💡 Interested in AI, Robotics, Software Dev and Cybersecurity.
+- 🔭 Currently revising some programming languages.
+- 🛠️ Trying to get better at problem solving.
 - 🐈 Fun fact: I love cats :D
 
 <!--
