@@ -22,9 +22,8 @@
 </div>
 
 ## :woman_technologist: About me:
-- 💡 Interested in AI, Robotics, Software Dev and Cybersecurity.
+- 💡 Interested in AI and Robotics.
 - 🔭 Currently revising some programming languages.
-- 🛠️ Trying to get better at problem solving.
 - 🐈 Fun fact: I love cats :D
 
 <!--
